@@ -6,7 +6,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Analyzing Data From Airbnb Edinburgh Scotland**
+* [**Analyzing Data From Airbnb Edinburgh Scotland**](https://github.com/syrilae/data_science/blob/master/Analyzing_Data_From_Airbnb_Edinburgh_Scotland.ipynb)
 
 ---
 
